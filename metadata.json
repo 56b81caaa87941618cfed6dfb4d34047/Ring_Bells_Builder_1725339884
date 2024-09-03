@@ -4,5 +4,6 @@
     "project_description": "an app for building the Ring Bells",
     "creation_time": "2024-09-03 05:04:44.290759",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, surreal landscape dominated by shades of pink and purple, with a cosmic theme highlighted by ethereal planetary bodies and mysterious mountainous terrain. The scene is illuminated with glowing, neon-like accents, contributing to the otherworldly, fantasy atmosphere."
 }
